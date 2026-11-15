@@ -1,0 +1,181 @@
+﻿DeviceName,DriverProviderName,DriverVersion,DriverDate,InfName
+WAN Miniport (Network Monitor),Microsoft,10.0.26100.1,/Date(1150848000000)/,netrasa.inf
+WAN Miniport (IPv6),Microsoft,10.0.26100.1,/Date(1150848000000)/,netrasa.inf
+WAN Miniport (IP),Microsoft,10.0.26100.1,/Date(1150848000000)/,netrasa.inf
+WAN Miniport (PPPOE),Microsoft,10.0.26100.1,/Date(1150848000000)/,netrasa.inf
+WAN Miniport (PPTP),Microsoft,10.0.26100.1,/Date(1150848000000)/,netrasa.inf
+WAN Miniport (L2TP),Microsoft,10.0.26100.1,/Date(1150848000000)/,netrasa.inf
+WAN Miniport (IKEv2),Microsoft,10.0.26100.1,/Date(1150848000000)/,netavpna.inf
+WAN Miniport (SSTP),Microsoft,10.0.26100.1,/Date(1150848000000)/,netsstpa.inf
+Generic software device,Microsoft,10.0.26100.1,/Date(1150848000000)/,c_swdevice.inf
+Local Print Queue,Microsoft,10.0.26100.1,/Date(1150848000000)/,printqueue.inf
+Local Print Queue,Microsoft,10.0.26100.1,/Date(1150848000000)/,printqueue.inf
+Local Print Queue,Microsoft,10.0.26100.1,/Date(1150848000000)/,printqueue.inf
+Local Print Queue,Microsoft,10.0.26100.1,/Date(1150848000000)/,printqueue.inf
+Local Print Queue,Microsoft,10.0.26100.1,/Date(1150848000000)/,printqueue.inf
+Generic software device,Microsoft,10.0.26100.1,/Date(1150848000000)/,c_swdevice.inf
+Generic software device,Microsoft,10.0.26100.1,/Date(1150848000000)/,c_swdevice.inf
+Generic software device,Microsoft,10.0.26100.1,/Date(1150848000000)/,c_swdevice.inf
+Generic software device,Microsoft,10.0.26100.1,/Date(1150848000000)/,c_swdevice.inf
+Generic software device,Microsoft,10.0.26100.1,/Date(1150848000000)/,c_swdevice.inf
+Voice Clarity,Microsoft Corporation,1.0.4.7057,/Date(1781568000000)/,oem69.inf
+Computer Device,Microsoft,10.0.26100.1,/Date(1150848000000)/,compdev.inf
+Remote Desktop Device Redirector Bus,Microsoft,10.0.26100.9818,/Date(1150848000000)/,rdpbus.inf
+Microsoft Streaming Service Proxy,Microsoft,10.0.26100.1,/Date(1150848000000)/,ksfilter.inf
+Plug and Play Software Device Enumerator,Microsoft,10.0.26100.4202,/Date(1747958400000)/,swenum.inf
+Microsoft System Management BIOS Driver,Microsoft,10.0.26100.1,/Date(1150848000000)/,mssmbios.inf
+NDIS Virtual Network Adapter Enumerator,Microsoft,10.0.26100.1,/Date(1150848000000)/,ndisvirtualbus.inf
+Microsoft Basic Render Driver,Microsoft,10.0.26100.9818,/Date(1150848000000)/,basicrender.inf
+System Firmware,HP Inc.,15.52.0.0,/Date(1632268800000)/,oem17.inf
+Microsoft UEFI-Compliant System,Microsoft,10.0.26100.9818,/Date(1150848000000)/,uefi.inf
+ACPI Fixed Feature Button,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+Motherboard resources,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+ACPI Lid,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+ACPI Thermal Zone,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+Microsoft AC Adapter,Microsoft,10.0.26100.9818,/Date(1150848000000)/,cmbatt.inf
+Microsoft ACPI-Compliant Control Method Battery,Microsoft,10.0.26100.9818,/Date(1150848000000)/,cmbatt.inf
+Microsoft Windows Management Interface for ACPI,Microsoft,10.0.26100.1150,/Date(1150848000000)/,wmiacpi.inf
+Trusted Platform Module 2.0,Microsoft,10.0.26100.9818,/Date(1150848000000)/,tpm.inf
+ACPI Wake Alarm,Microsoft,10.0.26100.1150,/Date(1150848000000)/,acpitime.inf
+High precision event timer,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+Microsoft Input Configuration Device,Microsoft,10.0.26100.1150,/Date(1150848000000)/,mtconfig.inf
+ELAN PrecisionTouchpad Filter Driver,ELAN,22.2.29.1,/Date(1635206400000)/,oem54.inf
+ELAN HID Class Filter Driver,ELAN HID Device,22.2.29.1,/Date(1635206400000)/,oem74.inf
+ELAN Input Device,ELAN,22.2.29.1,/Date(1635206400000)/,oem68.inf
+I2C HID Device,Microsoft,10.0.26100.9818,/Date(1150848000000)/,hidi2c.inf
+AMD I2C Controller,"Advanced Micro Devices, Inc.",1.2.0.118,/Date(1635724800000)/,oem75.inf
+AMD GPIO Controller,"Advanced Micro Devices, Inc",2.2.0.130,/Date(1604361600000)/,oem44.inf
+AMD Processor,Microsoft,10.0.26100.9818,/Date(1240272000000)/,cpu.inf
+AMD Processor,Microsoft,10.0.26100.9818,/Date(1240272000000)/,cpu.inf
+AMD Processor,Microsoft,10.0.26100.9818,/Date(1240272000000)/,cpu.inf
+AMD Processor,Microsoft,10.0.26100.9818,/Date(1240272000000)/,cpu.inf
+AMD Processor,Microsoft,10.0.26100.9818,/Date(1240272000000)/,cpu.inf
+AMD Processor,Microsoft,10.0.26100.9818,/Date(1240272000000)/,cpu.inf
+AMD Processor,Microsoft,10.0.26100.9818,/Date(1240272000000)/,cpu.inf
+AMD Processor,Microsoft,10.0.26100.9818,/Date(1240272000000)/,cpu.inf
+ACPI Power Button,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+HP Insights Analytics,HP Inc.,4.2.2494.0,/Date(1619740800000)/,oem43.inf
+HP Application Driver Component,HP Inc.,1.87.4769.0,/Date(1757980800000)/,oem9.inf
+HP Application Driver,HP Inc.,1.66.3710.0,/Date(1711584000000)/,oem38.inf
+HID-compliant wireless radio controls,Microsoft,10.0.26100.9974,/Date(1150848000000)/,input.inf
+HP Wireless Button Driver,HP Inc.,2.1.17.7,/Date(1761177600000)/,oem67.inf
+Motherboard resources,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+Motherboard resources,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+System board,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+Standard PS/2 Keyboard,Microsoft,10.0.26100.9818,/Date(1150848000000)/,keyboard.inf
+Microsoft ACPI-Compliant Embedded Controller,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+System speaker,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+System CMOS/real time clock,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+System timer,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+Direct memory access controller,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+Programmable interrupt controller,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard ISA bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+AMD SMBus,"Advanced Micro Devices, Inc",5.12.0.38,/Date(1596412800000)/,oem21.inf
+Motherboard resources,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+Audio Endpoint,Microsoft,10.0.26100.1,/Date(1711843200000)/,audioendpoint.inf
+Audio Endpoint,Microsoft,10.0.26100.1,/Date(1711843200000)/,audioendpoint.inf
+Audio Endpoint,Microsoft,10.0.26100.1,/Date(1711843200000)/,audioendpoint.inf
+Sound Research Audio Effects Component,Sound Research Corp.,2.0.9.18,/Date(1603238400000)/,oem64.inf
+Realtek Audio Universal Service,Realtek,1.0.0.481,/Date(1648771200000)/,oem60.inf
+Realtek Audio Effects Component,Realtek,11.0.6000.803,/Date(1602115200000)/,oem48.inf
+HP Audio Hardware Support Application,Realtek,11.0.6000.257,/Date(1620604800000)/,oem55.inf
+Realtek High Definition Audio,Realtek Semiconductor Corp.,6.0.9292.1,/Date(1648771200000)/,oem37.inf
+High Definition Audio Controller,Microsoft,10.0.26100.9818,/Date(1792886400000)/,hdaudbus.inf
+AMD Audio CoProcessor,AMD,6.0.0.14,/Date(1626134400000)/,oem0.inf
+USB Video Device,Microsoft,10.0.26100.9974,/Date(1150848000000)/,usbvideo.inf
+USB Composite Device,Microsoft,10.0.26100.9818,/Date(1150848000000)/,usb.inf
+Generic USB Hub,Microsoft,10.0.26100.9974,/Date(1786406400000)/,usbhub3.inf
+USB Root Hub (USB 3.0),Microsoft,10.0.26100.9974,/Date(1786406400000)/,usbhub3.inf
+USB xHCI Compliant Host Controller,Microsoft,10.0.26100.9974,/Date(1786406400000)/,usbxhci.inf
+HID-compliant system controller,Microsoft,10.0.26100.9974,/Date(1150848000000)/,input.inf
+HID-compliant consumer control device,Microsoft,10.0.26100.1,/Date(1150848000000)/,hidserv.inf
+HID-compliant vendor-defined device,Microsoft,10.0.26100.9974,/Date(1150848000000)/,input.inf
+HID-compliant mouse,Microsoft,10.0.26100.9974,/Date(1150848000000)/,msmouse.inf
+USB Input Device,Microsoft,10.0.26100.9974,/Date(1150848000000)/,input.inf
+Bluetooth LE Generic Attribute Service,Microsoft,10.0.26100.9818,/Date(1150848000000)/,bthleenum.inf
+Bluetooth Low Energy GATT compliant HID device,Microsoft,10.0.26100.9818,/Date(1150848000000)/,hidbthle.inf
+Bluetooth LE Generic Attribute Service,Microsoft,10.0.26100.9818,/Date(1150848000000)/,bthleenum.inf
+Device Information Service,Microsoft,10.0.26100.9818,/Date(1150848000000)/,bthleenum.inf
+Generic Attribute Profile,Microsoft,10.0.26100.9818,/Date(1150848000000)/,bthleenum.inf
+Generic Access Profile,Microsoft,10.0.26100.9818,/Date(1150848000000)/,bthleenum.inf
+Bluetooth LE Device,Microsoft,10.0.26100.9818,/Date(1150848000000)/,bthleenum.inf
+Microsoft Bluetooth LE Enumerator,Microsoft,10.0.26100.9818,/Date(1150848000000)/,bthleenum.inf
+Bluetooth Device (Personal Area Network),Microsoft,10.0.26100.9974,/Date(1150848000000)/,bthpan.inf
+Microsoft Bluetooth Hands-Free Audio device,Microsoft,10.0.26100.9818,/Date(1792886400000)/,microsoft_bluetooth_hfp.inf
+Microsoft Bluetooth Hands-Free Profile AudioGateway role,Microsoft,10.0.26100.1,/Date(1711843200000)/,microsoft_bluetooth_hfp_ag.inf
+Microsoft Bluetooth Avrcp Transport Driver,Microsoft,10.0.26100.9818,/Date(1792886400000)/,microsoft_bluetooth_avrcptransport.inf
+Microsoft Bluetooth Avrcp Transport Driver,Microsoft,10.0.26100.9818,/Date(1792886400000)/,microsoft_bluetooth_avrcptransport.inf
+Microsoft Bluetooth Avrcp Transport Driver,Microsoft,10.0.26100.9818,/Date(1792886400000)/,microsoft_bluetooth_avrcptransport.inf
+Microsoft Bluetooth Avrcp Transport Driver,Microsoft,10.0.26100.9818,/Date(1792886400000)/,microsoft_bluetooth_avrcptransport.inf
+Microsoft Bluetooth A2dp Source,Microsoft,10.0.26100.1,/Date(1711843200000)/,microsoft_bluetooth_a2dp_src.inf
+Microsoft Bluetooth A2dp Source,Microsoft,10.0.26100.1,/Date(1711843200000)/,microsoft_bluetooth_a2dp_src.inf
+Microsoft Bluetooth Hands-Free Audio device,Microsoft,10.0.26100.9818,/Date(1792886400000)/,microsoft_bluetooth_hfp.inf
+Microsoft Bluetooth Hands-Free Profile AudioGateway role,Microsoft,10.0.26100.1,/Date(1711843200000)/,microsoft_bluetooth_hfp_ag.inf
+Microsoft Bluetooth Avrcp Transport Driver,Microsoft,10.0.26100.9818,/Date(1792886400000)/,microsoft_bluetooth_avrcptransport.inf
+Microsoft Bluetooth Avrcp Transport Driver,Microsoft,10.0.26100.9818,/Date(1792886400000)/,microsoft_bluetooth_avrcptransport.inf
+Microsoft Bluetooth A2dp Source,Microsoft,10.0.26100.1,/Date(1711843200000)/,microsoft_bluetooth_a2dp_src.inf
+Bluetooth Device,Microsoft,10.0.26100.9974,/Date(1150848000000)/,bth.inf
+Bluetooth Device,Microsoft,10.0.26100.9974,/Date(1150848000000)/,bth.inf
+Bluetooth Device,Microsoft,10.0.26100.9974,/Date(1150848000000)/,bth.inf
+GFPS3,,,,
+SPP,,,,
+	?W,,,,
+Bluetooth Peripheral Device,,,,
+Bluetooth Peripheral Device,,,,
+oppointeraction,,,,
+SPP,,,,
+Microsoft Bluetooth Enumerator,Microsoft,10.0.26100.9974,/Date(1150848000000)/,bth.inf
+Standard Serial over Bluetooth link,Microsoft,10.0.26100.2161,/Date(1150848000000)/,bthspp.inf
+Standard Serial over Bluetooth link,Microsoft,10.0.26100.2161,/Date(1150848000000)/,bthspp.inf
+Bluetooth Device (RFCOMM Protocol TDI),Microsoft,10.0.26100.9818,/Date(1150848000000)/,tdibth.inf
+Realtek Bluetooth 4.2 Adapter,Realtek Semiconductor Corp.,1.9.1051.3004,/Date(1670544000000)/,oem14.inf
+USB Root Hub (USB 3.0),Microsoft,10.0.26100.9974,/Date(1786406400000)/,usbhub3.inf
+USB xHCI Compliant Host Controller,Microsoft,10.0.26100.9974,/Date(1786406400000)/,usbxhci.inf
+AMD PSP 10.0 Device,Advanced Micro Devices Inc.,5.17.0.0,/Date(1636156800000)/,oem45.inf
+AMD High Definition Audio Device,Advanced Micro Devices,10.0.1.21,/Date(1626134400000)/,oem80.inf
+High Definition Audio Controller,Microsoft,10.0.26100.9818,/Date(1792886400000)/,hdaudbus.inf
+Generic PnP Monitor,Microsoft,10.0.26100.9818,/Date(1150848000000)/,monitor.inf
+AMD-UWP Version Control,"Advanced Micro Devices, Inc.",26.2040.0.0,/Date(1546819200000)/,oem27.inf
+AMD Radeon(TM) RX Vega 10 Graphics,"Advanced Micro Devices, Inc.",30.0.13023.4001,/Date(1639612800000)/,oem12.inf
+PCI Express Root Port,Microsoft,10.0.26100.9974,/Date(1150848000000)/,pci.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI Express Root Port,Microsoft,10.0.26100.9974,/Date(1150848000000)/,pci.inf
+Microsoft Wi-Fi Direct Virtual Adapter,Microsoft,10.0.26100.9818,/Date(1150848000000)/,netvwifimp.inf
+Microsoft Wi-Fi Direct Virtual Adapter,Microsoft,10.0.26100.9818,/Date(1150848000000)/,netvwifimp.inf
+Realtek RTL8723DE 802.11b/g/n PCIe Adapter,Realtek Semiconductor Corp.,2024.0.10.226,/Date(1640304000000)/,oem30.inf
+PCI Express Root Port,Microsoft,10.0.26100.9974,/Date(1150848000000)/,pci.inf
+Disk drive,Microsoft,10.0.26100.9974,/Date(1150848000000)/,disk.inf
+Standard NVM Express Controller,Microsoft,10.0.26100.9974,/Date(1150848000000)/,stornvme.inf
+PCI Express Root Port,Microsoft,10.0.26100.9974,/Date(1150848000000)/,pci.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI standard host CPU bridge,Microsoft,10.0.26100.9974,/Date(1150848000000)/,machine.inf
+PCI Express Root Complex,Microsoft,10.0.26100.9974,/Date(1150848000000)/,pci.inf
+Microsoft ACPI-Compliant System,Microsoft,10.0.26100.9818,/Date(1150848000000)/,acpi.inf
+ACPI x64-based PC,Microsoft,10.0.26100.1,/Date(1150848000000)/,hal.inf
+Charge Arbitration Driver,Microsoft,10.0.26100.9818,/Date(1150848000000)/,ChargeArbitration.inf
+UMBus Root Bus Enumerator,Microsoft,10.0.26100.1150,/Date(1150848000000)/,umbus.inf
+Microsoft Kernel Debug Network Adapter,Microsoft,10.0.26100.8521,/Date(1150848000000)/,kdnic.inf
+Microsoft Storage Spaces Controller,Microsoft,10.0.26100.9974,/Date(1150848000000)/,spaceport.inf
+Microsoft Virtual Drive Enumerator,Microsoft,10.0.26100.1591,/Date(1150848000000)/,vdrvroot.inf
+Composite Bus Enumerator,Microsoft,10.0.26100.1150,/Date(1150848000000)/,compositebus.inf
+Microsoft Hyper-V Virtualization Infrastructure Driver,Microsoft,10.0.26100.9974,/Date(1150848000000)/,wvid.inf
+Microsoft Basic Display Driver,Microsoft,10.0.26100.8521,/Date(1150848000000)/,basicdisplay.inf
+Volume,Microsoft,10.0.26100.5074,/Date(1150848000000)/,volume.inf
+Generic volume shadow copy,Microsoft,10.0.26100.1,/Date(1150848000000)/,volsnap.inf
+Generic volume shadow copy,Microsoft,10.0.26100.1,/Date(1150848000000)/,volsnap.inf
+Volume,Microsoft,10.0.26100.5074,/Date(1150848000000)/,volume.inf
+Volume,Microsoft,10.0.26100.5074,/Date(1150848000000)/,volume.inf
+Volume,Microsoft,10.0.26100.5074,/Date(1150848000000)/,volume.inf
+Volume Manager,Microsoft,10.0.26100.9818,/Date(1150848000000)/,volmgr.inf
+,,,,
+,,"2:10.0,2:6.3,2:6.2,2:6.1,2:6.0,2:5.2,2:5.1",,
+,,"2:10.0,2:6.3,2:6.2,2:6.1,2:6.0,2:5.2,2:5.1",,
+,,"2:10.0,2:6.3,2:6.2,2:6.1,2:6.0,2:5.2,2:5.1",,
